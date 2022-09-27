@@ -20,4 +20,4 @@ urllib3==1.26.12
 Werkzeug==2.2.2
 yarg==0.1.9
 zipp==3.8.1
-gunicorn
+gunicorn==20.1.0
